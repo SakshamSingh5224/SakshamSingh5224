@@ -15,9 +15,14 @@
   <a href="https://leetcode.com/u/SaKsHaM_SiNgH_5224/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
+
 ---
 
 ### About
+
+I am a Computer Science and Engineering student at RV College of Engineering (B.E. 2022–2026) with a strong focus on algorithmic problem-solving, LLM-powered applications, and scalable backend architecture. 
+
+---
 
 I am a Computer Science and Engineering student at RV College of Engineering with a strong focus on algorithmic problem-solving, LLM-powered applications, and scalable backend architecture. 
 
