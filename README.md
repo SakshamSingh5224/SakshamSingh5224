@@ -30,6 +30,7 @@ I am a Computer Science and Engineering student at RV College of Engineering wit
 
 ### Featured Projects
 
+* **LLM Smart Router:** An intelligent routing mechanism designed to dynamically distribute queries and optimize workflow performance across Large Language Models.
 * **ContextIQ AI:** An operational risk scoring platform engineered with FastAPI, Google Gemini API, SQLite, and a React/Vite frontend.
 * **Blockchain Pharmaceutical Supply Chain:** An anti-counterfeit drug prevention system utilizing Solidity, Ethereum, React.js, and Web3.js.
 * **SAR Ship Detection:** A hybrid research initiative developed at the RVCE HPCC Systems Centre of Excellence (CISSS).
