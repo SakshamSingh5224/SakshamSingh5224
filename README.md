@@ -24,10 +24,6 @@ I am a Computer Science and Engineering student at RV College of Engineering (B.
 
 ---
 
-I am a Computer Science and Engineering student at RV College of Engineering with a strong focus on algorithmic problem-solving, LLM-powered applications, and scalable backend architecture. 
-
----
-
 ### Featured Projects
 
 * **LLM Smart Router:** An intelligent routing mechanism designed to dynamically distribute queries and optimize workflow performance across Large Language Models.
